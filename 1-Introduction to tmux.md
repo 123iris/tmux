@@ -41,6 +41,7 @@ sudo yum install tmux -y
 brew install tmux -y
 ```
 
+
 # References
 
 * [linuxize.com](https://linuxize.com/post/getting-started-with-tmux/)

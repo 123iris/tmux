@@ -1,5 +1,6 @@
 # Create & Manage tmux session 
 
+
 ## Create Sessions
 
 * Start a new session
@@ -100,6 +101,22 @@ ctrl + b (
 
 ```
 ctrl + b )
+```
+
+## tmux help
+
+* Show every session, window, pane, etc...
+
+```
+tmux info
+```
+
+* Show shortcuts
+
+```
+press "ctrl + b" and then press "?"
+
+ctrl+b ?
 ```
 # References
 
